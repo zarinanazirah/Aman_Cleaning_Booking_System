@@ -1,31 +1,24 @@
-Free Download Source Code "Online Hotel Reservation "
+1. Open XAMPP. START Apache and MySQL
 
-FIRST Download
+2. Download the zip file/ download winrar
 
-1.XAMPP
+3. Extract the file and copy "aman cleaning system " folder
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+4.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
-3"Online Hotel Reservation "
+5. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-4. Download the zip file/ download winrar
+6. Create a database with name ac_db
 
-5. Extract the file and copy "Online Hotel Reservation " folder
+7. Import ac_db.sql file (given inside the zip package in SQL file folder)
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name hotel_db
-
-6. Import db_hor.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/Online_Hotel_Reservation 
+8.Run the script:
+Website: http://localhost/amancleaningsystem/ 
+Admin: http://localhost/amancleaningsystem/admin/
 
 
-**LOGIN DETAILS** 
+**LOGIN DETAILS FOR ADMIN** 
 
 Admin
 user: admin
 pass: admin
-
